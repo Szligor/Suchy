@@ -16,7 +16,7 @@ Na serwer wrzuca się `index.html`, `img/` i `fonts/`. Podgląd lokalny: otwórz
 
 ## Publikacja (GitHub Pages)
 
-Strona jest serwowana z gałęzi `gh-pages`: **https://szligor.github.io/suchy/**
+Strona jest serwowana z gałęzi `gh-pages`: **https://szligor.github.io/Suchy/**
 
 Po zmianach na `main` zaktualizuj ją tak:
 
